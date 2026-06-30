@@ -101,6 +101,12 @@ Your HTML website should now be successfully hosted and accessible online.
 
 ---
 
+### 7. Image that shows it's working
+
+![Image of the website running](screenshots/webrun.png)
+
+---
+
 ## Outcome
 
 - Successfully provisioned an AWS EC2 instance.
