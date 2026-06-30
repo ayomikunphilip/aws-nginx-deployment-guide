@@ -1,0 +1,31 @@
+# AWS SSH private keys
+*.pem
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Vim swap files
+*.swp
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Node dependencies (if added later)
+node_modules/
